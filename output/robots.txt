@@ -1,4 +1,0 @@
-Sitemap: https://nghiant66.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: nghiant66.github.io
