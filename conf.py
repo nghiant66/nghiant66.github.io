@@ -138,11 +138,17 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/archive.html", "Archive"),
+#         ("/categories/", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     ),
+# }
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/index.html", "Home"),
+        ("/bio/index.html", "Bio"),
     ),
 }
 
@@ -233,19 +239,33 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
+# POSTS = (
+#     ("posts/*.rst", "posts", "post.tmpl"),
+#     ("posts/*.md", "posts", "post.tmpl"),
+#     ("posts/*.txt", "posts", "post.tmpl"),
+#     ("posts/*.html", "posts", "post.tmpl"),
+# )
+# PAGES = (
+#     ("pages/*.rst", "pages", "page.tmpl"),
+#     ("pages/*.md", "pages", "page.tmpl"),
+#     ("pages/*.txt", "pages", "page.tmpl"),
+#     ("pages/*.html", "pages", "page.tmpl"),
+# )
+
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),  # notice the second argument
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
+INDEX_PATH = "blog"
 
 # Below this point, everything is optional
 
