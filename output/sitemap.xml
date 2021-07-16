@@ -7,16 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nghiant66.github.io/2021/</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
+  <lastmod>2021-07-16T09:49:00Z</lastmod>
  </url>
  <url>
-<<<<<<< HEAD
   <loc>https://nghiant66.github.io/about/</loc>
   <lastmod>2021-07-16T10:26:00Z</lastmod>
-=======
-  <loc>https://nghiant66.github.io/archive.html</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
->>>>>>> 6589fbe5b0b7502ea925a6290fc1310631749df7
  </url>
  <url>
   <loc>https://nghiant66.github.io/archive.html</loc>
@@ -24,19 +19,19 @@
  </url>
  <url>
   <loc>https://nghiant66.github.io/blog/</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
+  <lastmod>2021-07-16T09:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://nghiant66.github.io/blog/test-post-1/</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
+  <lastmod>2021-07-16T09:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://nghiant66.github.io/blog/test-post-2/</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
+  <lastmod>2021-07-16T09:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://nghiant66.github.io/categories/</loc>
-  <lastmod>2021-07-16T10:11:00Z</lastmod>
+  <lastmod>2021-07-16T07:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://nghiant66.github.io/publications/</loc>
