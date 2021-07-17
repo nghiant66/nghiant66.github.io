@@ -5,7 +5,7 @@
 .. link:
 .. description: Home page for Vicky Rampin (née Steeves).
 
-.. image:: /images/selfie.jpg
+.. image:: /images/selfie.jpeg
    :align: left
    :class: face
    :scale: 60
