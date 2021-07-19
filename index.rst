@@ -3,7 +3,7 @@
 .. date: 2016-07-31 00:00:00 UTC
 .. tags:
 .. link:
-.. description: Home page for Vicky Rampin (née Steeves).
+.. description: Home page for Nghia Ngo
 
 .. image:: /images/selfie.jpg
    :align: left
@@ -21,4 +21,4 @@
 
     <h3> Research Interests </h3>
 
-    <p> I am working on problems related to Natural Language Processing and Machine Learning. Specifically, my current main research focuses are cross-domain information extraction and multilingual language understanding. Additionally, I am interested in novel approaches from different fields such as Adversarial Learning,  Optimal Transport, Meta Learning, etc to address the problem of low-resource learning </p>
+    <p> I am working on problems related to Natural Language Processing and Machine Learning. Specifically, my current main research focuses are cross-domain information extraction and multilingual language understanding. In addition, I am interested in novel approaches from different fields such as Adversarial Learning,  Optimal Transport, Meta Learning, etc to address the problem of low-resource learning </p>
