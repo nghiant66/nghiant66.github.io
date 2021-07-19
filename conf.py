@@ -138,30 +138,30 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("/", "Home"),
 	("/resume", "Resume"), 
-#	(
-#         (
-#           ("/blog", "Posts"),
-#	        ("/archive.html", "Archives"),
-#         ),
-#         'Blog' 
-#     ),
-     (
-         (
-            ("https://osf.io/7mj2q/", "Open Science Framework <i class='fas fa-external-link-alt'></i>"),
-	        ("https://gitlab.com/VickyRampin", "GitLab <i class='fas fa-external-link-alt'></i>"),
-            ("https://github.com/VickyRampin", "GitHub <i class='fas fa-external-link-alt'></i>"),
-         ),
-         'Data & Code' 
-     ),
-     (
-         (
-            ("https://octodon.social/@vickyrampin", "Mastodon <i class='fas fa-external-link-alt'></i>"),
-	        ("https://pixelfed.social/VickyZelda", "PixelFed <i class='fas fa-external-link-alt'></i>"),
-	        ("https://twitter.com/VickyRampin", "Twitter <i class='fas fa-external-link-alt'></i>"),
-            ("https://www.linkedin.com/in/vickyrampin", "LinkedIn <i class='fas fa-external-link-alt'></i>"),
-         ),
-         'Social' 
-     ),
+	# (
+    #     (
+    #       ("/blog", "Posts"),
+	#         ("/archive.html", "Archives"),
+    #     ),
+    #     'Blog' 
+    # ),
+    #  (
+    #      (
+    #         ("https://osf.io/7mj2q/", "Open Science Framework <i class='fas fa-external-link-alt'></i>"),
+	#         ("https://gitlab.com/VickyRampin", "GitLab <i class='fas fa-external-link-alt'></i>"),
+    #         ("https://github.com/VickyRampin", "GitHub <i class='fas fa-external-link-alt'></i>"),
+    #      ),
+    #      'Data & Code' 
+    #  ),
+    #  (
+    #      (
+    #         ("https://octodon.social/@vickyrampin", "Mastodon <i class='fas fa-external-link-alt'></i>"),
+	#         ("https://pixelfed.social/VickyZelda", "PixelFed <i class='fas fa-external-link-alt'></i>"),
+	#         ("https://twitter.com/VickyRampin", "Twitter <i class='fas fa-external-link-alt'></i>"),
+    #         ("https://www.linkedin.com/in/vickyrampin", "LinkedIn <i class='fas fa-external-link-alt'></i>"),
+    #      ),
+    #      'Social' 
+    #  ),
      ),
 }
 
